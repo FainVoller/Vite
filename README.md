@@ -10,4 +10,6 @@ npm install axios @tanstack/react-query
 ```
 
 Затем 
+```bash
 npm run dev 
+```
