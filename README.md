@@ -1,4 +1,3 @@
-# Vite
 # ЧТО БЫ ВСЁ ЗАПУСТИЛОСЬ:
 В терминале:
 npm create vite@latest react-dummyjson -- --template react
